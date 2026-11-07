@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center"> Hi  👋, I'm Sayma Islam</h1>
+<h3 align="center">A passionate as Front-End Developer </h3>
+
+<img align="right" width="368" height="338" alt="image" src="https://github.com/user-attachments/assets/c6fd7c0f-7e63-4ef8-86fc-6ed4bfa4792d" />
 
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Next.js
@@ -8,6 +11,9 @@
 - 📫 How to reach me: Email it "saymaislamnipa11@gmail.com"
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love code
+
+
+
 
 - **About Me**
 
