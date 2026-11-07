@@ -32,9 +32,4 @@ I am always eager to learn new technologies, improve my development skills, and 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SAYMAISLAM11&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SAYMAISLAM11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=SAYMAISLAM11&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
