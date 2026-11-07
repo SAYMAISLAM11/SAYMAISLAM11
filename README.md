@@ -8,7 +8,8 @@
 - 📫 How to reach me: Email it "saymaislamnipa11@gmail.com"
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love code
-**About Me**
+
+- **About Me**
 
 Hi, I'm Sayma Islam, a passionate and dedicated Website Developer and Front-End Developer with a strong interest in creating modern, responsive, and user-friendly websites. I have skills in HTML, CSS, JavaScript, React.js, and responsive web design. I focus on building attractive, functional, and easy-to-navigate websites that provide a great user experience.
 
